@@ -1,2 +1,2 @@
-The contents of this directory are part of Cisco DEVASC exam curriculum.
+The contents of this directory are part of DevNet DEVASC exam curriculum.
 This text was added originally while in the feature branch
